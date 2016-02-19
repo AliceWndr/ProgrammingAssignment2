@@ -1,6 +1,6 @@
 Please, run it from the console! :-)
 
-source('C:/Users/Aliz/Desktop/Coursera_R/makeMatrix.R')
+source('C:/Users/Aliz/Desktop/Coursera_R/cachematrix.R')
 testMatrix <- matrix(c(1,5,6,9),nrow=2)
 specMatrix <- makeCacheMatrix(testMatrix)
 cacheSolve(specMatrix) # first call on matrix, caching inverse
