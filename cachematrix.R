@@ -1,3 +1,5 @@
+## !!! For TEST CASES see file: ProgrammingAssignment/TestCases.R
+
 ## Matrix inversion is usually a costly computation and there may be some benefit to caching the inverse of a matrix
 ## rather than compute it repeatedly. You can use the following pair of functions to cache the inverse of a matrix, but
 ## also to solve a linear equations, putting an additional argument (...) in the cacheSolve function defined below. For
